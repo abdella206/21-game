@@ -1,0 +1,73 @@
+html, body{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+h1{
+    text-align: center;
+}
+
+
+
+
+
+  #dealercard{
+    
+    border-radius: 10px;
+    width: 35%;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 1px;
+    
+
+  }
+
+
+  #playercard{
+    
+    padding-top: 200px;
+    border-radius: 10px;
+    height: 400px;
+    width: 35%;
+    margin-top: 45px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+  
+  }
+
+
+
+button{
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 100px;
+  
+}
+
+.btn{
+  padding-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  
+}
+
+
+h2{
+  text-align-last: right;
+  padding-right: 25%;
+  padding-top: 10px;
+
+}
+
+#btnstand{
+  padding-right: 50px;
+}
