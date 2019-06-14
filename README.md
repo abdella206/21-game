@@ -18,4 +18,6 @@ My first step in creating the game was to have a visual on what needed to be don
 
 
 # Tools
+https://www.w3schools.com
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 
