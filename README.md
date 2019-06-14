@@ -14,3 +14,8 @@ Game rules click the deal button to get the game started then it will deal 4 car
 
 # PLANNING:
 My first step in creating the game was to have a visual on what needed to be done, I got the layout down with html & css then i started working on the javascript code. I got the game to work except getting one of my dealer cards to be hidden also had trouble with changing the value of ACE after game scores are above 15
+
+
+
+# Tools
+
