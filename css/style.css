@@ -1,0 +1,100 @@
+html{
+    margin: 0;
+    padding: 0;
+    background-image: url("img/cards.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    }
+
+h1{
+    text-align: center;
+    color:rgb(245, 91, 2);
+}
+
+h3{
+  color:rgb(245, 91, 2);
+}
+
+#background {
+  background-color: rgba(88, 86, 86, 0.5);
+}
+
+
+
+  #dealercard{
+    border: 1px  solid white;
+    border-radius: 10px;
+    width: 50%;
+    height: 400px;
+    margin-top: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 1px;
+    }
+
+
+  #playercard{
+    border: 1px  solid white;
+    padding-top: 10px;
+    border-radius: 10px;
+    height: 400px;
+    width: 50% ;
+    margin-top: 45px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
+
+
+button{
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 100px;
+  
+}
+
+.btn{
+  padding-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  
+}
+
+
+h2{
+  display: flex;
+  justify-content: flex-end;
+  color:white;
+  text-align: center;
+  padding-right: 25%;
+  padding-top: 10px;
+  background-color: rgba(8, 174, 216, 0.561);
+  border-radius: 10px;
+  width: 100px;
+  height: 50px;
+  }
+
+#btnstand{
+  padding-right: 50px;
+}
+
+#messageD{
+  display: flex;
+  justify-content: center;
+  background-color: rgba(8, 174, 216, 0.561);
+  text-align: center;
+  color: white;
+}
+
+#messageP{
+  display: flex;
+  justify-content: center;
+  background-color: rgba(8, 174, 216, 0.561);
+  text-align: center;
+  color: white;
+}
+
