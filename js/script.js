@@ -58,7 +58,6 @@ var values = {
 /// // Dom Manipulation
 document.addEventListener('DOMContentLoaded', function (e) {
     hitDealer = document.getElementById('btnhit');
-    hitDealer.textContent = "test123"
     hitPlayer = document.getElementById('btnhit2');
     stand = document.getElementById('btnstand');
     deal = document.getElementById('deal');
