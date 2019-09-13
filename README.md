@@ -2,6 +2,8 @@
 This is a 21 card game program built using HTML, JavaScript and CSS.
 My first game I ever made from bottom up.
 
+[LIVE SITE](https://abdella206.github.io/21-game/).
+
 ![FireShot Capture 001 - 21 Game! - ](https://user-images.githubusercontent.com/25184204/59524650-5341dd80-8e89-11e9-8b89-f22b2155b16e.png)
 
 # 21 Game overview:
