@@ -1,10 +1,10 @@
-<<<<<<< HEAD
 html{
     margin: 0;
     padding: 0;
-    background-image: url("img/cards.jpeg");
+    background-image: url("img/cards.jpg");
     background-size: cover;
     background-attachment: fixed;
+    
     }
 
 h1{
@@ -18,43 +18,25 @@ h3{
 
 #background {
   background-color: rgba(88, 86, 86, 0.5);
+  border: 1px  solid black;
+  margin: auto;
+  width: 90%;
+  
+  
 }
-=======
-html, body{
-
-    margin: 0;
-    padding: 0;
-
-}
-
-h1{
-    text-align: center;
-}
-
-
->>>>>>> c7ad7402de1757b8d85bbfd4c3a67e9b6dd86fb2
 
 
 
   #dealercard{
-<<<<<<< HEAD
     border: 1px  solid white;
     border-radius: 10px;
     width: 50%;
     height: 400px;
     margin-top: 1px;
-=======
-    
-    border-radius: 10px;
-    width: 35%;
-    height: 400px;
-    margin-top: 50px;
->>>>>>> c7ad7402de1757b8d85bbfd4c3a67e9b6dd86fb2
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     padding: 1px;
-<<<<<<< HEAD
     }
 
 
@@ -64,28 +46,10 @@ h1{
     border-radius: 10px;
     height: 400px;
     width: 50% ;
-=======
-    
-
-  }
-
-
-  #playercard{
-    
-    padding-top: 200px;
-    border-radius: 10px;
-    height: 400px;
-    width: 35%;
->>>>>>> c7ad7402de1757b8d85bbfd4c3a67e9b6dd86fb2
     margin-top: 45px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-<<<<<<< HEAD
-=======
-    
-  
->>>>>>> c7ad7402de1757b8d85bbfd4c3a67e9b6dd86fb2
   }
 
 
@@ -108,7 +72,6 @@ button{
 
 
 h2{
-<<<<<<< HEAD
   display: flex;
   justify-content: flex-end;
   color:white;
@@ -141,14 +104,3 @@ h2{
   color: white;
 }
 
-=======
-  text-align-last: right;
-  padding-right: 25%;
-  padding-top: 10px;
-
-}
-
-#btnstand{
-  padding-right: 50px;
-}
->>>>>>> c7ad7402de1757b8d85bbfd4c3a67e9b6dd86fb2
